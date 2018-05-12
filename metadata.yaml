@@ -1,9 +1,13 @@
 _repo: Dixie-Martin-The-Girl-of-Woodford-s-Canon_46871
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Warren, Elisabeth B.
     gutenberg_agent_id: '44005'
     url: http://www.gutenberg.org/2009/agents/44005
+covers:
+- cover_type: archival
+  image_path: 46871-h/images/cover.jpg
 creator:
   author:
     agent_name: North, Grace May
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41476
     wikipedia: http://www.gutenberg.org/browse/authors/n#a41818
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46871#Dixie-Martin-The-Girl-of-Woodford-s-Canon
 gutenberg_issued: '2014-09-16'
 gutenberg_type: Text
 identifiers:
